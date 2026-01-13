@@ -1,0 +1,17 @@
+...,
+{
+  "chainId": 101,
+  "address": "FHWPTZ6ESMEnUvz7WcPJ6MwPVkcxDkk3v3gGP28odJzi",
+  "symbol": "USDT",
+  "name": "USDT",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/bafkreidymydr7alwhxtp3fcvzuocoh5je23ae557m76e6pfpc7lupsrjoi",
+  "tags": ["stablecoin", "usd"],
+  "extensions": {
+    "coingeckoId": "",
+    "website": "",
+    "twitter": "",
+    "discord": ""
+  }
+}
+]
